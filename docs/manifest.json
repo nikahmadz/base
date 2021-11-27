@@ -1,7 +1,7 @@
 {
-  "short_name": "sandbox",
-  "name": "Sandbox App",
-  "description": "nikahmadz.github.io/sandbox",
+  "short_name": "base",
+  "name": "Base App",
+  "description": "nikahmadz.github.io/base",
   "display": "standalone",
   "background_color": "#222222",
   "theme_color": "#222222",
@@ -9,9 +9,9 @@
   "start_url": "./",
   "shortcuts": [
     {
-      "short_name": "sandbox",
-      "name": "Sandbox App",
-      "description": "nikahmadz.github.io/sandbox",
+      "short_name": "base",
+      "name": "Base App",
+      "description": "nikahmadz.github.io/base",
       "url": "./?source=pwa",
       "icons": [{
         "src": "./icons/android-chrome-192x192.png",
