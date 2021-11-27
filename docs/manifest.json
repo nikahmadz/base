@@ -1,0 +1,36 @@
+{
+  "short_name": "sandbox",
+  "name": "Sandbox App",
+  "description": "nikahmadz.github.io/sandbox",
+  "display": "standalone",
+  "background_color": "#222222",
+  "theme_color": "#222222",
+  "scope": "./",
+  "start_url": "./",
+  "shortcuts": [
+    {
+      "short_name": "sandbox",
+      "name": "Sandbox App",
+      "description": "nikahmadz.github.io/sandbox",
+      "url": "./?source=pwa",
+      "icons": [{
+        "src": "./icons/android-chrome-192x192.png",
+        "sizes": "192x192"
+      }]
+    }
+  ],
+  "icons": [
+    {
+      "src": "./icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
