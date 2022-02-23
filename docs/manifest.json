@@ -1,15 +1,15 @@
 {
-  "short_name": "base",
+  "short_name": "Base App",
   "name": "Base App",
   "description": "nikahmadz.github.io/base",
   "display": "standalone",
-  "background_color": "#222222",
-  "theme_color": "#222222",
+  "background_color": "#202020",
+  "theme_color": "#202020",
   "scope": "./",
   "start_url": "./",
   "shortcuts": [
     {
-      "short_name": "base",
+      "short_name": "Base App",
       "name": "Base App",
       "description": "nikahmadz.github.io/base",
       "url": "./?source=pwa",
