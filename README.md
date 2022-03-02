@@ -2,6 +2,10 @@
 
 ***
 
+## What is it?
+
+**Base** is the foundation of a web application.
+
 ## Publishing to Github Pages
 
 1. Go to **Github Pages** settings.  
@@ -11,7 +15,7 @@
     - Choose `main/docs` as the source of your website.
     - Click **Save**.
 
-2. Copy contents of your website into this repository.
+2. Copy contents of your website into this repository source folder, then push to publish.
 
 ***
 ⚠ IMPORTANT : YOU MUST COMMIT AT LEAST ONE FILE FOR THE APP TO GO LIVE.
