@@ -1,3 +1,3 @@
-# !{ title }
-!{ description }
+# Markdown example
+Example text.
 [Back](/)
