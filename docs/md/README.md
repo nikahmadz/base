@@ -1,3 +1,3 @@
-## Markdown example
-You can use markdown too.
+# !{ title }
+!{ description }
 [Back](/)
