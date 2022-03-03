@@ -17,6 +17,8 @@
 
 2. Copy contents of your website into this repository source folder, then push to publish.
 
+3. Find out how you can [customize your theme here](https://github.com/pages-themes).
+
 ***
 ⚠ IMPORTANT : YOU MUST COMMIT AT LEAST ONE FILE FOR THE APP TO GO LIVE.
 ***
