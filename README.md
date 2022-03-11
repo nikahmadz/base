@@ -1,10 +1,10 @@
-[nikahmadz.github.io][1] / base
+[nikahmadz.github.io][1] / [base](https://nikahmadz.github.io/base)
 
 ***
 
 ## What is it?
 
-**Base** is the foundation of a web application.
+**Base** is a foundation of a web application.
 
 ## Publishing to Github Pages
 
