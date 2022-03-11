@@ -1,3 +1,8 @@
 # GitHub Pages Configuration Variables
 theme: jekyll-theme-primer
+
+# The title of your site
 title: Base
+
+# A short description of your site's purpose
+description: Web Application Framework

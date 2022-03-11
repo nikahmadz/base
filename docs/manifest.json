@@ -1,7 +1,7 @@
 {
-  "short_name": "Base App",
+  "short_name": "Base",
   "name": "Base App",
-  "description": "nikahmadz.github.io/base",
+  "description": "Web Application Framework",
   "display": "standalone",
   "background_color": "#202020",
   "theme_color": "#202020",
@@ -9,9 +9,9 @@
   "start_url": "./",
   "shortcuts": [
     {
-      "short_name": "Base App",
+      "short_name": "Base",
       "name": "Base App",
-      "description": "nikahmadz.github.io/base",
+      "description": "Web Application Framework",
       "url": "./?source=pwa",
       "icons": [{
         "src": "./icons/android-chrome-192x192.png",
