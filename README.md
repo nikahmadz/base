@@ -4,7 +4,7 @@
 
 ## What is it?
 
-**Base** is a foundation of web application.
+**Base** is the foundation of a web application.
 
 ## Publishing to Github Pages
 
