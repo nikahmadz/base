@@ -1,8 +1,8 @@
-[nikahmadz.github.io][1] / [base](https://nikahmadz.github.io/base)
+[nikahmadz.github.io][1] / [base][base]
 
 ***
 
-**Base** is a ✨Web Application Framework
+[**Base**][base] is a ✨Web Application Framework
 
 ***
 
@@ -11,3 +11,4 @@
 [1]:https://nikahmadz.github.io
 [2]:https://github.com/nikahmadz
 [3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discussion Room"
+[base]:https://nikahmadz.github.io/base
