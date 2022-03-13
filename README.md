@@ -2,7 +2,7 @@
 
 ***
 
-[**Base**][base] is a ✨Web Application Framework
+**[Base][base]** is a ✨Web Application Framework
 
 ***
 
