@@ -225,6 +225,12 @@ You can also use word as reference [^note].
 
 ***
 
+{{ site.theme }}
+
+{{ site.remote_theme }}
+
+***
+
 <div class="text-center text-grey"> Finished </div>
 
 ***
