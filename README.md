@@ -2,14 +2,14 @@
 
 ***
 
-**[Base][base]** is a ✨Web Application Framework
+# [Base][base]
+### ✨Web Application Framework
 
 [base]:https://nikahmadz.github.io/base
 
 ***
 
-[Home][nikahmadz]
-&middot; [Follow me][github]
+[Visit my website][nikahmadz]
 &middot; [Sponsor me][pay]
 &middot; [Discuss][discuss]
 
