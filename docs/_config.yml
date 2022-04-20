@@ -1,10 +1,5 @@
 # GitHub Pages Configuration Variables
 
-# The theme of your site
 remote_theme: nikahmadz/pages
-
-# The title of your site
 title: Base
-
-# A short description of your site's purpose
 description: Web Application Framework
